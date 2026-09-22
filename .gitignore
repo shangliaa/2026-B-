@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 比赛模拟器数据与日志（含队伍信息，不上传）
+CUMCM2026B/
+robot_log.txt
+*.sqlite3
+*.sqlite3-*
+*.jlog
+*.psum
+
+# 提交压缩包
+提交材料.rar
+*.rar
+*.zip
+*.7z
+
+# 参考文献PDF（版权）
+参考文献/
+
+# 比赛格式模板与自查表
+format2026.doc
+2026数学建模国赛AI全自动自查表（标准版）.docx
+
+# 附件原文件
+附件/
+
+# 临时文件
+*.tmp
+*.bak
+_clean_props.py
+_verify.py
+_git_init.py
+_git_commit_readme.py
+_git_push.py
